@@ -1,0 +1,8 @@
+name = input('Qual o seu nome completo? ')
+cor = input('Qual a sua cor favorita? ')
+comida = input('E qual a sua comida preferida? ')
+print('')
+print('Este é o seu cartão de apresentação! Não o perca!')
+print('Nome: ' + name)
+print('Cor: ' + cor)
+print('Comida: ' + comida) 

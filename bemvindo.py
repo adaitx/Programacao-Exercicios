@@ -1,0 +1,5 @@
+print ('Oi! Quero te conhecer!')
+name = input ('Qual o seu nome? ') 
+print ('Oi ' + name + ", muito prazer!")
+idade = input ('Digite sua idade ')
+print ('Que legal, você é um adulto! Tem ' + idade + " anos!")
